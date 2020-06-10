@@ -1008,7 +1008,6 @@ def parse_args(cmd=None, ignore_defaults=False):
 
 
 def main():
-    init()
     "Encapsulating main prevents scope leakage and pleases linters."
     print('''
     Refactor: @Term_4D4N
