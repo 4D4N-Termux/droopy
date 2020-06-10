@@ -5,7 +5,9 @@
 1 <code>apt install python2 && apt install git</code>  
 3 <code>git clone https://github.com/4D4N-Termux/droopy</code>  
 4 <code>cd droopy</code>  
-5 <code>python droopy.py</code>   
+5 <code>chmod +x droopy.py</code>
+6 <code>python droopy.py</code> 
+  
 
 # При возникновении ошибок, установите оригинальную версию скрипта.
 1 <code>apt install python2 && apt install git</code>  
